@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on - ATD List <br>🤝 I’m looking for help with - Back End<br>🌱 I’m currently learning - NextJS<br>⚡ Fun fact - I play basketball
+🔭 I’m currently working on - [ND] To Do List <br>🤝 I’m looking for help with - Back End<br>🌱 I’m currently learning - NextJS<br>⚡ Fun fact - I play basketball
 
 
 ## 🌐 Socials:
